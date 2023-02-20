@@ -5,7 +5,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>This is to test if a change would show on AWS</p>
       < Header />
       < Homepage />
     </div>
